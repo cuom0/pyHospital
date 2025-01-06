@@ -111,4 +111,5 @@ Feel free to fork the repository and contribute to improving FantasyHospital. Su
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ---
-Developed with ❤️ by [cuom0_](https://github.com/cuom0_)
+Developed with ❤️ by [cuom0_](https://github.com/cuom0_) with the amazing help of my Project Group.
+Cuomo Salvatore 4E 2024-2025
